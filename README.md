@@ -4,7 +4,7 @@
 To develop a animal feeding game-Phase-1 using unity.
 
 ## Algorithm:
-
+ 
 ### Player Controller
 ### Step 1: 
 Extract the package and in unity , asserts -> Import packages -> Custom packages and select the package. When we go to Assets folders we can see the course library which we extracted
